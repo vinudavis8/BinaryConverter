@@ -1,5 +1,6 @@
 # BinaryConverter
-
+ Operations using 16 bit binary numbers.
+ 
 1.Index operator   <br />
   Binary[index]  <br /> <br />
   
